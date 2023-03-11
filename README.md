@@ -48,6 +48,45 @@
 
 ![Screenshot9](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/9.ign.png?raw=true)
 
+				10. Añadimos el fichero 1.txt al repositorio local.
+
+![Screenshot10](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/10.fic.png?raw=true)
+
+    11. Crear el tag v0.1
+
+![Screenshot11](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/11.tag.png?raw=true)
+
+    12. Subimos los cambios al repositorio remoto.
+
+![Screenshot12](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/12.rem.png?raw=true)
+
+    ## Crear una rama v0.2
+
+   13. Creamos una rama v0.2
+
+![Screenshot13](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/13.ram.png?raw=true)
+
+   14. Posicionamos nuestra carpeta de trabajo en esta rama.
+
+    git checkout v0.2
+
+![Screenshot14](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/14.check.png?raw=true)
+
+## Añadir fichero 2.txt
+
+    15. Añadimos un fichero 2.txt en la rama v0.2.
+
+    touch 2.txt
+    git add .
+    git commit -m "añadido 2.txt"
+
+
+
+    
+
+
+
+
 
 
  
