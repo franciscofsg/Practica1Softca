@@ -80,6 +80,29 @@
     git add .
     git commit -m "añadido 2.txt"
 
+    ## Crear rama remota v0.2
+
+    16. Subimos los cambios al repositorio remoto
+
+    git push origin v0.2
+
+![Screenshot15](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/16.pu.png?raw=true)
+
+    17. Nos posicionamos en la rama main
+
+    git checkout main
+
+## Merge directo
+
+    18. Hacemos un merge de la rama v0.2 en la rama master. 
+
+![Screenshot17](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/18.mer.png?raw=true)
+   
+## Merge con conflicto
+
+    19. En la rama main ponemos Hola en el fichero 1.txt y hacemos commit.
+
+
 
 
     
