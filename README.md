@@ -75,11 +75,12 @@
 ## Añadir fichero 2.txt
 
 15. Añadimos un fichero 2.txt en la rama v0.2.
-
+    ~~~
     touch 2.txt
     git add .
     git commit -m "añadido 2.txt"
-
+    ~~~
+    
     ## Crear rama remota v0.2
 
 16. Subimos los cambios al repositorio remoto
