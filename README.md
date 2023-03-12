@@ -86,7 +86,7 @@
 
     git push origin v0.2
 
-![Screenshot15](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/16.pu.png?raw=true)
+![Screenshot16](https://github.com/franciscofsg/Practica1Softca/blob/main/Screenshots/16.pu.png?raw=true)
 
 17. Nos posicionamos en la rama main
 
